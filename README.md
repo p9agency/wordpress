@@ -1,0 +1,2 @@
+# wordpress
+Blank Wordpress install
